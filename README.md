@@ -1,5 +1,5 @@
-# university_java
-### Laboratory works for Cross-platform technologies
+# Laboratory works for Cross-platform technologies
+
 
 Work number:
 1. Laboratory work number 1 +
