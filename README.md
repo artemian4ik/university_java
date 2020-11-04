@@ -1,4 +1,4 @@
-# Laboratory works for Cross-platform technologies
+# Laboratory works of Cross-platform technologies
 
 
 Work number:
